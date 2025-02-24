@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Devjeet Sahoo</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on **Netflix recommender system**
+- 🔭 I’m currently working on **Movie Recommender system**
 
 - 🌱 I’m currently learning **Python , ML**
 
